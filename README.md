@@ -1,7 +1,6 @@
 #SmartLearn 
 #Ed-Tech Platform
 
-
 1. Developed a dynamic and responsive user interface using ReactJS, CSS, and Tailwind, enhancing the user experience for both students and instructors on the SmartLearn platform.
 
 2. Implemented robust back-end services using NodeJS and ExpressJS, providing secure and efficient APIs for user authentication, course management, and media handling.
